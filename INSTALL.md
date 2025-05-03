@@ -60,5 +60,5 @@ TWITTER_USERNAME=Fifacom
 Once everything is configured, run:
 
 ```bash
-python tweet_monitor.py
+python main.py
 ```
